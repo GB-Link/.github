@@ -43,7 +43,7 @@ Device Compatibility
 
 **Adapter Management**
 
-* GB-Link Launcher
+* GB-Link Launcher https://launcher.gblink.io
     * Update firmware directly from a web browser.
     * Configure adapter settings.
     * Access an up-to-date directory of compatible web applications.
