@@ -7,6 +7,7 @@ Device Compatibility
 * Also compatible with FPGA consoles that support original link cable funtionality
     *  Analogue Pocket
     *  Chromatic
+    *  FPGBC
     *  Game Bub
 
 
