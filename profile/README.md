@@ -16,6 +16,8 @@ Device Compatibility
 * Tetris, Dr. Mario, and Yoshi (GB)
     * Online 1v1 matches
     * Multiplayer battle royale–style games with 2 or more players
+* Pokémon Trading Card Game (GB)
+    * Online duels
 * Advance Wars 1 & 2 (GBA)
     * Play online multiplayer matches
     * Share and download custom maps
@@ -24,7 +26,13 @@ Device Compatibility
     * Trading
     * Record Mixing
 * Pokémon Generations I, II & III
-    * Online Pokémon trading.
+    * Online battling (Gen I & II)
+    * Online trading (Gen I–III)
+* Pokémon FireRed & LeafGreen (GBA ↔ Nintendo Switch)
+    * Trade and battle between a real GBA and the Switch version
+    * Requires an ESP32 board
+* GBA MMO (GBA homebrew)
+    * Explore a shared online world and level up skills
 
 **Game Boy Advance Utilities**
 
